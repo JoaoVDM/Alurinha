@@ -1,3 +1,3 @@
 # Alurinha
 
-Curso "Flexbox: posicione elementos na tela" da Alura
+Curso "Flexbox: posicione elementos na tela" da Alura.
